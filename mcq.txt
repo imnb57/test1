@@ -2,4 +2,8 @@
 2. do-while
 3. b ( import java.util.Scanner;)
 4. b
-5. 
+5. b
+6. o
+7. d
+8. c
+
